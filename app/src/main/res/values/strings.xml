@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RollDice</string>
+    <string name="headName">ROLL THE DICE!</string>
+    <string name="headSecondaryName">WHO WON?</string>
+    <string name="rollButtonName">ROLL</string>
+    <string name="outputName">_   -   _</string>
+    <string name="resetName">RESET</string>
+</resources>
